@@ -1,0 +1,9 @@
+Server gửi cho Client 1 cái Object thông qua ObjectOutputStream
+Client nhận của object Server là ObjectInputStream
+
+Object trong file là của Service nhưng mà a k gửi cho đỡ phức tạp
+Em thay Object đó là 1 Object đơn giản hơn để chạy thử
+
+A chưa làm ObjectInputStream cho Server và ObjectOutputStream cho Client
+
+Em chỉ chạy thử phương thức StartServer thôi, bỏ InitializeDatabase cho đơn giản
